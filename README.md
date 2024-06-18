@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rahul Mydur</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.navicosoft.com/wp-content/uploads/2020/10/expert-developers.gif)">
+<img align="right" alt="Coding" width="400" src="https://www.navicosoft.com/wp-content/uploads/2020/10/expert-developers.gif">
 
 - 💬 Ask me about **Python, Gen-AI, Data Analytics, Machine Learning**
 
