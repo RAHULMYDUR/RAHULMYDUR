@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Rahul Mydur</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.navicosoft.com/wp-content/uploads/2020/10/expert-developers.gif">
+<img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 <p align="left"> <a href="https://twitter.com/rahulmydur29" target="blank"><img src="https://img.shields.io/twitter/follow/rahulmydur29?logo=twitter&style=for-the-badge" alt="rahulmydur29" /></a> </p>
 
