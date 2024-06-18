@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://i.ibb.co/kXBn8cD/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rahul Mydur</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.navicosoft.com/wp-content/uploads/2020/10/expert-developers.gif">
