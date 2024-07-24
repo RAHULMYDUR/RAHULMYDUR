@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.ibb.co/z77gkgj/github-header-image-1.png" alt="MasterHead" width="1000" height="230">
-</div>
 <h1 align="center">Hi 👋, I'm Rahul Mydur</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
