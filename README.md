@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rahulmydur@gmail.com**
 
-- ⚡ Fun fact **Did you know? As a data engineer, I get to play the ultimate game of "Hide and Seek" with data! Every day, I delve into vast data lakes, navigate through complex pipelines, and uncover hidden insights that drive critical business decisions. It's like being a digital detective, piecing together clues to solve the biggest data mysteries.**
+- ⚡ Fun fact **Did you know? As a Data Science Engineer, I get to play the ultimate game of "Hide and Seek" with data! Every day, I delve into vast data lakes, navigate through complex pipelines, and uncover hidden insights that drive critical business decisions and ma. It's like being a digital detective, piecing together clues to solve the biggest data mysteries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
