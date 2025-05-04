@@ -70,14 +70,17 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmydur&show_icons=true&theme=github_dark" alt="Rahul's GitHub stats" />
-</p>
+<h3 align="left">Publications & Media:</h3>
+<ul>
+  <li>📖 Blog: <a href="https://medium.com/@rahulmydur">Medium - @rahulmydur</a></li>
+  <li>🎧 Resume Podcast: <a href="https://notebooklm.google.com/notebook/1a698558-9229-48aa-b540-4d47e26dc4d8/audio">Listen here</a></li>
+</ul>
 
 ---
 
 ### 📄 Resume
 
-[![Download Resume](Rahul_Mydur.pdf)
+[![Download Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/rahulmydur/rahulmydur/blob/main/Rahul_Mydur.pdf)
+
+
