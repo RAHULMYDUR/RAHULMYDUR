@@ -1,21 +1,83 @@
 <h1 align="center">Hi 👋, I'm Rahul Mydur</h1>
-<h3 align="center">A passionate Data Science Engineer from India</h3>
+<h3 align="center">Generative AI Engineer | LLMs, RAG, Vertex AI, AWS Bedrock</h3>
+
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
-<p align="left"> <a href="https://twitter.com/rahulmydur29" target="blank"><img src="https://img.shields.io/twitter/follow/rahulmydur29?logo=twitter&style=for-the-badge" alt="rahulmydur29" /></a> </p>
-
-- 💬 Ask me about **Python, Gen-AI, Data Analytics, Machine Learning**
-
-- 📫 How to reach me **rahulmydur@gmail.com**
-
-- ⚡ Fun fact **Did you know? As a Data Science Engineer, I get to play the ultimate game of "Hide and Seek" with data! Every day, I delve into vast data lakes, navigate through complex pipelines, and uncover hidden insights that drive critical business decisions and make predictions out of it. It's like being a digital detective, piecing together clues to solve the biggest data mysteries.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahulmydur29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmydur29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul mydur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul mydur" height="30" width="40" /></a>
-<a href="https://fb.com/rahul mydur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul mydur" height="30" width="40" /></a>
+  <a href="https://twitter.com/rahulmydur29" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/rahulmydur29?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🔭 Currently working on **GenAI solutions at ZS**
+- 🤖 Building: **RAG pipelines, Text2SQL agents, AI chatbots**
+- 🌐 Skills: **LangChain, LlamaIndex, OpenAI, FAISS, Streamlit**
+- ☁️ Platforms: **AWS Bedrock, GCP Vertex AI, Docker**
+- 💬 Ask me about **LLMs, Vector DBs, MLOps, FastAPI**
+- 📫 Reach me: **rahulmydur@gmail.com**
+- ⚡ Fun fact: I build GenAI agents that decode documents better than humans! 🤖📄
+
+---
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://twitter.com/rahulmydur29" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/rahulmydur" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/rahulmydur" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🧰 Languages & Tools I Work With
+
+**Programming & Scripting**  
+`Python` `SQL` `Bash` `C`
+
+**Frameworks & APIs**  
+`FastAPI` `Flask` `LangChain` `LlamaIndex`
+
+**GenAI & LLM Ecosystem**  
+`OpenAI GPT` `Claude` `Hugging Face` `Semantic Kernel`
+
+**Cloud & MLOps**  
+`AWS (Bedrock, EC2, S3)` `Google Cloud (Vertex AI)` `Azure` `Docker` `MLflow` `GitHub Actions`
+
+**Vector Databases & Retrieval**  
+`FAISS` `ChromaDB` `PGVector` `OpenSearch`
+
+**Databases & Storage**  
+`PostgreSQL` `MongoDB` `Snowflake` `S3`
+
+**Other Tools**  
+`Git` `VSCode` `Jupyter` `Streamlit` `Weights & Biases`
+
+---
+
+## 🧠 Featured Projects
+
+- 🔍 **RAG Pipeline Development** — LangChain + FAISS + OpenSearch for semantic search.
+- 🤖 **Text2SQL AI Agent** — GPT-powered query builder with custom prompts and vector search.
+- 🧪 **Vertex AI AutoML** — Trained & deployed classifier with 70%+ accuracy for real-world data.
+- 🔧 **FastAPI GenAI Backend** — Scalable backend for AI agents using Docker + GitHub Actions.
+- 📊 **Streamlit Chatbot** — Integrated chatbot with feedback loop and vector-based memory.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulmydur&show_icons=true&theme=github_dark" alt="Rahul's GitHub stats" />
+</p>
+
+---
+
+### 📄 Resume
+
+[![Download Resume](Rahul_Mydur.pdf)
