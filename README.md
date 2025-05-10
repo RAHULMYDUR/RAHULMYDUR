@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Mydur</h1>
-<h3 align="center">Generative AI Engineer | LLMs, RAG, Vertex AI, AWS Bedrock</h3>
+<h3 align="center">AI Engineer | Generative AI  | LLMs, RAG, Vertex AI, AWS Bedrock</h3>
 
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
